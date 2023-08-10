@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
 </head>
 <body>
-
 <h2 id="built-with">Built With</h2>
   <ul>
     <li>HTML</li>
